@@ -1,0 +1,75 @@
+section.top-image{
+    background-image: url(images/header.jpg);
+    background-repeat: no-repeat;
+}
+
+.container{
+    padding-top: 100px;
+}
+.col-7{
+    color: white;
+}
+
+.col-7 h1{
+    font-size: 70px;
+    font-weight: normal;
+}
+.buttons{
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+.btn{
+    margin-right: 20px;
+}
+
+.bg1{
+    background-image: linear-gradient(45deg, #f54ea2, #ff7676);
+}
+
+.bg2{
+    background-image: linear-gradient(45deg, #e930da, #7823e8 );
+}
+.bg3{
+    background-image: linear-gradient(45deg, #148bc6, #76f6ffdb);
+}
+.bg4{
+    background-image: linear-gradient(45deg, #de740a, #ff7676);
+}
+
+
+.card-header{
+    color: white;
+    text-align: center;
+}
+
+.bg-offer1{
+    background-image: url(images/banner/banner-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.bg-offer2{
+    background-image: url(images/banner/banner-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.bg-offer1,.bg-offer2{
+    padding: 25px;
+}
+
+.card-title{
+    background: rgb(201, 189, 189);
+    font-size: 16px;
+    padding: 6px;
+}
+
+footer{
+    margin-top: 100px;
+    height: 200px;
+    background-color: #35064c;
+    color: white;
+}
